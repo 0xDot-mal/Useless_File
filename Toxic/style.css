@@ -1,0 +1,33 @@
+.toxic {
+    font-family: "Anton SC", sans-serif;
+    font-weight: 100;
+    font-style: normal;
+    font-size: 75px;
+    margin-left: 575px;
+  }
+
+.uke{
+  font-family: "Beiruti", sans-serif;
+  font-size: 20px;
+  font-style: italic;
+  font: bolder;
+  font-weight: 800;
+  margin-left: 595px;
+}
+.uked{
+  height: 200px;
+  width: 300px;
+  margin-left: 510px;
+}
+
+.lyrics{
+    border-radius: 2%;
+    border: groove;
+    margin-top: 0%;
+    margin: 20%;
+    border-color: rgb(3, 126, 34);
+    font-family: "Margarine", sans-serif;
+    font-weight: 400;
+    font-style: normal;
+      
+}
